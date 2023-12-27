@@ -1,0 +1,21 @@
+.banner {
+    background-image: url(https://d1le3ohiuslpz1.cloudfront.net/skillcrush/wp-content/uploads/2018/10/Blog_Full-stack-dev.jpg.webp);
+padding: 200px 0;
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
+*{
+    font-family:'Poppins' sans-serif;
+}
+
+.sklp {
+    padding: 80px 5px;
+}
+
+.csimg{
+   
+    padding-top: 0px;
+}
