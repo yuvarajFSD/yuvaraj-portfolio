@@ -1,21 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
 .banner {
     background-image: url(https://d1le3ohiuslpz1.cloudfront.net/skillcrush/wp-content/uploads/2018/10/Blog_Full-stack-dev.jpg.webp);
-padding: 200px 0;
-background-repeat: no-repeat;
-background-size: cover;
+    padding: 200px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 
 }
 
-*{
-    font-family:'Poppins' sans-serif;
+* {
+    font-family: 'Poppins'sans-serif;
 }
 
 .sklp {
     padding: 80px 5px;
 }
 
-.csimg{
-   
+.csimg {
+
     padding-top: 0px;
+}
+
+
+.bt {
+    background-color: black;
+    color: #ffffffce;
+    border-radius: 5px;
+    text-decoration: none;
+    border-width: 0px;
+}
+
+w. {
+    background-color: #128c7e;
+    color: #ffff;
+}
+
+a {
+
+    text-decoration: none;
+    color: #ffffffce;
+}
+
+.sub {
+    border-radius: 3px;
+    background-color: blue;
+    color: #ffffff;
+    text-align: center;
+    margin: 5px;
 }
